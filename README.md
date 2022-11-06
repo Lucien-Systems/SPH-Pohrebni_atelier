@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, we are Lucien Systems</h1>
+<h1 align="center">Hi 👋, we are Lucien Systems</h1> 
+<img
+  src="/img.jpg"
+  alt="Lucien"
+  title="Lucien Systems"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 <h3 align="center">A magical company from USA working with passion.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghartaprince&label=Profile%20views&color=0e75b6&style=flat" alt="aghartaprince" /> </p>
 
