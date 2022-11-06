@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, we are Lucien Systems</h1> 
-<img
+<p align="center"><img
   src="lucien.png"
   alt="Lucien"
   title="Lucien Systems"
-  style="display: align="center"; margin: 0 auto; max-width: 444px">
+  style="display: align="center"; margin: 0 auto; max-width: 444px"></p>
 
 <h3 align="center">A magical company from USA working with passion.</h3>
 
