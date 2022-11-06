@@ -3,7 +3,7 @@
   src="lucien.png"
   alt="Lucien"
   title="Lucien Systems"
-  style="display:  text-align:center inline-block; margin: 0 auto; max-width: 444px">
+  style="display:  text-align:center center; margin: 0 auto; max-width: 444px">
 
 <h3 align="center">A magical company from USA working with passion.</h3>
 
