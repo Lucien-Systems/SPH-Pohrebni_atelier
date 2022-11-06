@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, we are Lucien Systems</h1> 
 <img
-  src="/lucien.jpg"
+  src="lucien.jpg"
   alt="Lucien"
   title="Lucien Systems"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
